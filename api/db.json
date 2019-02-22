@@ -3,6 +3,7 @@
     {
       "title": "My stream",
       "description": "This is a great stream.",
+      "userId": "107803870661966343841",
       "id": 1
     },
     {
@@ -18,10 +19,16 @@
       "id": 3
     },
     {
-      "title": "rrrreee",
-      "description": "rewrwerwe",
+      "title": "I want it that way",
+      "description": "done",
       "userId": "107803870661966343841",
       "id": 4
+    },
+    {
+      "title": "Test refactoring",
+      "description": "Yoyoyo",
+      "userId": "107803870661966343841",
+      "id": 5
     }
   ]
 }
